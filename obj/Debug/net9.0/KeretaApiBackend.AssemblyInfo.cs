@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeretaApiBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b5195cbb1bfc5ca537a72bd5166cf391bc0fba2")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeretaApiBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeretaApiBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

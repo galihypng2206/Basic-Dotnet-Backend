@@ -4871,11 +4871,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LatihanDotnet\\KeretaApiBackend\\KeretaApiBackend.csproj",
+      "projectUniqueName": "C:\\LatihanC#\\KeretaApiBackend.csproj",
       "projectName": "KeretaApiBackend",
-      "projectPath": "C:\\LatihanDotnet\\KeretaApiBackend\\KeretaApiBackend.csproj",
+      "projectPath": "C:\\LatihanC#\\KeretaApiBackend.csproj",
       "packagesPath": "C:\\Users\\galih\\.nuget\\packages\\",
-      "outputPath": "C:\\LatihanDotnet\\KeretaApiBackend\\obj\\",
+      "outputPath": "C:\\LatihanC#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\galih\\AppData\\Roaming\\NuGet\\NuGet.Config"
