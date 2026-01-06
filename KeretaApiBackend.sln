@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeretaApiBackend", "KeretaApiBackend.csproj", "{A563C601-99FB-2CEC-375C-914FA36E015C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A563C601-99FB-2CEC-375C-914FA36E015C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A563C601-99FB-2CEC-375C-914FA36E015C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A563C601-99FB-2CEC-375C-914FA36E015C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A563C601-99FB-2CEC-375C-914FA36E015C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79D9B314-1F60-4A06-B0D8-DBE0A785AD13}
+	EndGlobalSection
+EndGlobal
